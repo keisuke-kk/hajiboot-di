@@ -9,3 +9,6 @@
 
 ### 2.1.3_DI 「オートワイヤリング」によるDI
 <img width="522" alt="image" src="https://github.com/keisuke-kk/hajiboot-di/assets/60077451/005a4ee6-e421-4f3e-8f3f-a1d7fc8ff923">
+
+### 2.1.4_DI 「コンポーネント・スキャン」で自動Bean登録
+<img width="576" alt="image" src="https://github.com/keisuke-kk/hajiboot-di/assets/60077451/30631e2c-031b-47af-bd0f-4f0a97a61078">
