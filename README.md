@@ -12,3 +12,6 @@
 
 ### 2.1.4_DI 「コンポーネント・スキャン」で自動Bean登録
 <img width="576" alt="image" src="https://github.com/keisuke-kk/hajiboot-di/assets/60077451/30631e2c-031b-47af-bd0f-4f0a97a61078">
+
+### 2.1.4_DI 「コンポーネント・スキャン」で自動Bean登録
+<img width="930" alt="image" src="https://github.com/keisuke-kk/hajiboot-di/assets/60077451/4ce3e188-e097-4524-bc24-c7e5bac95739">
